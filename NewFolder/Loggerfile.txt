@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace NLogDemo.NewFolder
+
+2022-07-29 01:42:42.8300 WARN Please enter the positive Number
+2022-07-29 01:42:42.9567 ERROR Number should not be negative
+2022-07-29 01:42:42.9567 DEBUG Debug Failed!!
+2022-07-29 01:43:23.3681 DEBUG Debugging successful
+2022-07-29 01:43:23.4930 INFO Answer Displayed
